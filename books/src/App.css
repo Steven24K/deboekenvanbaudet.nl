@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding-top: 60px;
+  background-color: #858484;
+  text-align: center;
+  width: 100%;
+  height: 250px;
+  background-image: linear-gradient(rgba(126, 93, 93, 0.527),rgba(0, 0, 0, 0.5)), url("https://media.licdn.com/dms/image/C4D12AQGZt4VprT6bpg/article-cover_image-shrink_423_752/0/1520219659903?e=1705536000&v=beta&t=iMaKKG6dewcA9CFUdOPp3HDBV8OYkxS1g6k_Zj_SWXY");
+  background-repeat: no-repeat;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.baudets-menu {
+  width: 100%;
+  height: 50px;
+  background-color: rgb(36, 35, 35);
+  color: white;
+  text-align: center;
+}
+
+.menu li{
+    display:inline;
+    padding: 10px;
+}
+
+.menu a { 
+  color: white;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  background-color: #858484;
+}
