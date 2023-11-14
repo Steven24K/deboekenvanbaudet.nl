@@ -3,6 +3,18 @@ body {
   padding: 0;
 }
 
+.main {
+  padding-top: 25px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 25px;
+  padding-top: 5px;
+  padding-bottom: 25px;
+  border-top: 1px solid rgba(175, 171, 171, 0.685);
+}
+
 /* Header/Logo Title */
 .header {
   padding-top: 60px;

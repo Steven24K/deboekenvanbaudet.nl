@@ -10,5 +10,9 @@ export const SendTitles = () => {
             de collectie op deze site. Voor alle duidelijkheid boeken hoeven niet echt te bestaan
             om opgenomen te worden in de collectie. Hier beoordelen we boeken puur op hun cover.
         </p>
+
+        <p>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeZb35gD7E5FWMbUgV8J_omdGJJN7jBRfjYiw8DY21U-yEspw/viewform?embedded=true" width="640" height="1051" frameBorder="0">Laden…</iframe>
+        </p>
     </div>
 }

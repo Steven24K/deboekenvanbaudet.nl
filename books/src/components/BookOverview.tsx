@@ -5,7 +5,7 @@ import { Book } from '../data/book';
 
 export const BookOverview = () => {
     let books = useLoaderData() as Book[]
-    return <div className='container'>
+    return <div className='container main'>
         <div className="row">
             {
                 books.map(book => <div key={book.id} className="col-md-4 mb-5 mb-md-0">

@@ -6,7 +6,8 @@ export const Disclaimer = () => {
 
         <p>
             Welkom bij DeBoekenVanBaudet.nl! 
-            Wees gewaarschuwd: onze pagina's zijn doordrenkt met verzonnen verhalen en surrealistische afbeeldingen die rechtstreeks uit het rijk der AI-mogelijkheden komen. 
+            Wees gewaarschuwd: onze pagina's zijn doordrenkt met verzonnen verhalen en surrealistische afbeeldingen die rechtstreeks uit het rijk der AI-mogelijkheden komen
+            en de fantasie van internetgebruikers. 
             Hierbij presenteren we de volgende disclaimers:
         </p>
         <p>

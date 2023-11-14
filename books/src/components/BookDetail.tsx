@@ -19,7 +19,7 @@ export const BookDetail = () => {
 
                 <div className="col-md-4">
                     <h3 className="my-3">{book.value.title}</h3>
-                    <p>{book.value.description}</p>
+                    <div>{book.value.description}</div>
                     <h4 className="my-4">{book.value.author}</h4>
                     <h5>{book.value.price}</h5>
                 </div>
