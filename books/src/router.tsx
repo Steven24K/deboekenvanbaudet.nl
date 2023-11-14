@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { createBrowserRouter } from "react-router-dom";
+import { createHashRouter } from "react-router-dom";
 import { BookOverview } from './components/BookOverview';
 import Layout from './Layout';
 import { BookDetail } from './components/BookDetail';
@@ -10,7 +10,7 @@ import { ThierryBaudet } from './pages/ThierryBaudet';
 import { Disclaimer } from './pages/Disclaimer';
 
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
     {
         path: "/",
         loader: async () => await getAllbooks(),
